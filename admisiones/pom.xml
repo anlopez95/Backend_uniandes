@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>uniandes</groupId>
 	<artifactId>admisiones</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>admisiones</name>
-	<description>Demo proyecto de adminisiones</description>
+	<description>Demo proyecto de admisiones</description>
 	<url/>
 	<licenses>
 		<license/>
